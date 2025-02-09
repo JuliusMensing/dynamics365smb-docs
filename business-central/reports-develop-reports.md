@@ -39,7 +39,7 @@ The following table provides links to articles that describe options for customi
 | To | Go to |
 |--|--|
 | Learn how to program reports in AL. | [Report Development Guide](/dynamics365/business-central/dev-itpro/developer/devenv-reports) |
-| Learn how to make reports perform. | [Report Performance Tuning Guide](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-reports) |
+| Learn how to make reports perform. | [Report Performance Tuning Guide](/dynamics365/business-central/dev-itpro/performance/performance-developer#writing-efficient-al-reports) |
 
 ## See Also
 
